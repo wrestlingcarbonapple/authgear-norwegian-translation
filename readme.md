@@ -14,4 +14,6 @@ Follow these steps:
 - Paste the contents of `translation.json` in the text-field.
 - Change the `app.name` and `sms.default.sender` to match your project name
 
+## Disclaimer
 
+The tranlation is done in large parts with ChatGpt 5 so be warned. We had a long discussion over how to make this and i have not quality checked beyond testing the stuff i actually use.
